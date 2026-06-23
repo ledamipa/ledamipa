@@ -31,7 +31,7 @@ Desarrollo de una aplicación móvil Android basada en la técnica Pomodoro, que
 - **Repositorio:** [Enlace al repositorio](https://github.com/ledami/PomoTime)
 
 ## Contacto
-- **GitHub:** [ledami](https://github.com/ledamipa)
+- **GitHub:** [ledamipa](https://github.com/ledamipa)
 - **Correo:** ledami1994@gmail.com
 - **LinkedIn:** [ledami](https://linkedin.com/in/ledami)
 
